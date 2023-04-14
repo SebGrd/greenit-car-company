@@ -5,7 +5,7 @@ export default component$(() => {
   return (
     <>
     <section>
-      MODELS
+      MODEL
     </section>
     </>
   );

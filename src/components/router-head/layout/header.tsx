@@ -13,7 +13,7 @@ export default component$(() => {
                         <a class="font-medium lg:text-xl" href="/modeles">Modèles</a>
                     </li>
                     <li>
-                        <a class="font-medium lg:text-xl" href="/marque">La marque</a>
+                        <a class="font-medium lg:text-xl" href="/la-marque">La marque</a>
                     </li>
                     <li>
                         <a class="font-medium lg:text-xl" href="/essai-routier">Reserver un essai</a>
