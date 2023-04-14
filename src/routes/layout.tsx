@@ -14,7 +14,7 @@ export default component$(() => {
   return (
     <div class="page">
       <Header />
-      <main>
+      <main class="container mx-auto">
         <Slot />
       </main>
       <footer>
