@@ -29,7 +29,7 @@ export default component$(() => {
     </section>
 
 
-    <section class="xl-flex mb-24 py-24">
+    <section class="xl:flex mb-24 py-24">
       <picture class="xl:w-2/3 w-full">
         <source srcSet="img/greenfactory.webp" type="image/webp" />
         <source srcSet="img/greenfactory.avif" type="image/avif" /> 
