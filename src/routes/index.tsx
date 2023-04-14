@@ -5,7 +5,23 @@ export default component$(() => {
   return (
     <>
     <section>
-      Hero
+      <picture>
+        <source srcSet="img/uv3.webp" type="image/webp" />
+        <source srcSet="img/uv3.avif" type="image/avif" /> 
+        <img src="img/uv3.jpg" alt="OPTA UV3" loading="lazy" />
+      </picture>
+    </section>
+    <section>
+      <video width="400" controls id="video-player" title="OPTA Touring">
+        <source src="img/nissan-video.mp4" type="video/mp4" />
+      </video>
+    </section>
+    <section>
+      <picture >
+          <source srcSet="img/greenfactory.webp" type="image/webp" />
+          <source srcSet="img/greenfactory.avif" type="image/avif" /> 
+          <img src="img/greenfactory.jpg" alt="OPTA Usine" loading="lazy" />
+        </picture>
     </section>
     </>
   );
