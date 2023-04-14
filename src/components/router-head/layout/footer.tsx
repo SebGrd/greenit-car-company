@@ -7,19 +7,19 @@ export default component$(() => {
                 <h2 class="text-3xl font-bold">Liens utiles</h2>
                 <nav>
                     <ul class="flex flex-wrap">
-                        <li class="w-1/2">
+                        <li class="w-full lg:w-1/2">
                             <a href="/modeles">Nos modèles</a>
                         </li>
-                        <li class="w-1/2">
+                        <li class="w-full lg:w-1/2">
                             <a href="/">Mention légales</a>
                         </li>
-                        <li class="w-1/2">
+                        <li class="w-full lg:w-1/2">
                             <a href="/la-marque">Notre marque</a>
                         </li>
-                        <li class="w-1/2">
+                        <li class="w-full lg:w-1/2">
                             <a href="/">Politiques de confidentialité</a>
                         </li>
-                        <li class="w-1/2">
+                        <li class="w-full lg:w-1/2">
                             <a href="/la-marque#eco">Notre démarche écologique</a>
                         </li>
                     </ul>
