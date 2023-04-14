@@ -5,7 +5,7 @@ export default component$(() => {
   return (
     <>
     <section>
-      <h1 class="text-3xl md:text-4xl font-bold mb-12">La Marque OPTA</h1>
+      <h1 class="text-4xl md:text-6xl font-bold text-center py-24">La Marque OPTA</h1>
     </section>
     <section class="xl:flex flex-column mb-24">
       <div class="2xl:w-1/2 xl:w-3/6 w-full bg-gray-300 px-10 py-5">
