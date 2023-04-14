@@ -1,5 +1,3 @@
-// make a qwik component for the header
-
 import { component$ } from '@builder.io/qwik';
 
 export default component$(() => {
