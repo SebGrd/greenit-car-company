@@ -10,7 +10,7 @@ export default component$(() => {
         <p class="text-xl mb-8">Vous avez toujours voulu rouler dans un véhicule qui soit à la fois comfortable, spacieux, performant et écologique ? Notre nouvelle voiture, la UV3 est faite pour vous.</p>
         <div class="flex items-center gap-2">
           <a href="/modeles/uv3" class="bg-white text-black py-2 px-4 font-medium">En savoir plus</a>
-          <a href="/uv3" class="bg-black text-white py-2 px-4">Reserver un essai</a>
+          <a href="/" class="bg-black text-white py-2 px-4">Reserver un essai</a>
         </div>
       </div>
       <picture class="2xl:w-1/2 xl:w-2/3 w-full">
